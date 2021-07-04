@@ -1,0 +1,32 @@
+body{
+	background-color: #AFEEEE;
+}
+h2{
+	margin-top: 10px;
+	margin-left: 10px;
+	color: #FF4500;
+}
+h4{
+	color: #008B8B;
+}
+.navbar-nav{
+	text-align: center;
+}
+.navbar-toggler{
+	text-align: center;
+
+}
+.collapse a{
+	float: right;
+	clear: right;
+	width: 100%;
+}
+.col-lg-11, .col-md-11, .col-sm-11, .col-11{
+	background-color: #EEE8AA;
+	border: 2px solid black;
+	margin-right: 4.16%;
+	margin-left: 4.16%;
+	margin-top: 1Vw;
+	margin-bottom: 1Vw;
+	padding: 15px;
+}
